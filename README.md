@@ -63,7 +63,7 @@ The SAM CLI reads the application template to determine the API's routes and the
         GetToken:
           Type: Api
           Properties:
-            Path: /token
+            Path: /decode/token
             Method: post
 ```
 
